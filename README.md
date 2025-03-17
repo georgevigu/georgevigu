@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on getting my degree
+I’m currently working on getting my degree\
 Looking for internships/junior positions.
 
 <!--
