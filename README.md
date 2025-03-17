@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on getting my degree 😩
+I’m currently working on getting my degree
 
 <!--
 **georgevigu/georgevigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
