@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I’m currently working on getting my degree
+Looking for internships/junior positions.
 
 <!--
 **georgevigu/georgevigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
