@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 I’m currently working on qubs' digital menu project https://qubdigital.cloud/qubmenu
+🍴 I’m currently working on qubs' digital menu project https://qubdigital.cloud/qubmenu
 
 
 <!--
